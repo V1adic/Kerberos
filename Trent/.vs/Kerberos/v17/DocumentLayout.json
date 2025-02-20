@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\kerberos\\kerberos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|solutionrelative:kerberos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\kerberos\\kerberos\\tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|solutionrelative:kerberos\\tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\kerberos\\kerberos\\trent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|solutionrelative:kerberos\\trent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\kerberos\\kerberos\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|solutionrelative:kerberos\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\bin\\Debug\\net8.0\\Data\\Users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kerberos\\bin\\Debug\\net8.0\\Data\\Users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|d:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\kerberos\\kerberos\\magma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1246D7-B6B4-4165-8671-871AA7C66D6C}|Kerberos\\Kerberos.csproj|solutionrelative:kerberos\\magma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCP.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\TCP.cs",
+              "RelativeDocumentMoniker": "Kerberos\\TCP.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\TCP.cs",
+              "RelativeToolTip": "Kerberos\\TCP.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwI8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:01:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Magma.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\Magma.cs",
+              "RelativeDocumentMoniker": "Kerberos\\Magma.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\Magma.cs",
+              "RelativeToolTip": "Kerberos\\Magma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:58:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.json",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\bin\\Debug\\net8.0\\Data\\Users.json",
+              "RelativeDocumentMoniker": "Kerberos\\bin\\Debug\\net8.0\\Data\\Users.json",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\bin\\Debug\\net8.0\\Data\\Users.json",
+              "RelativeToolTip": "Kerberos\\bin\\Debug\\net8.0\\Data\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T15:07:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\RSA.cs",
+              "RelativeDocumentMoniker": "Kerberos\\RSA.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\RSA.cs",
+              "RelativeToolTip": "Kerberos\\RSA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:14:06.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trent.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\Trent.cs",
+              "RelativeDocumentMoniker": "Kerberos\\Trent.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\Trent.cs",
+              "RelativeToolTip": "Kerberos\\Trent.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:11:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\Program.cs",
+              "RelativeDocumentMoniker": "Kerberos\\Program.cs",
+              "ToolTip": "D:\\new_desctop\\progect\\\u043A\u0440\u0438\u043F\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\\Kerberos\\Kerberos\\Program.cs",
+              "RelativeToolTip": "Kerberos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:10:25.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
